@@ -4,8 +4,7 @@
 
 #### CS50 Final Project Submission, Khalid Kamil
 
-<!-- <img src="https://github.com/khalid-kamil/FiftyHabits/blob/main/images/main-view.png" width="200" raw=true> -->
-![alt text](https://github.com/khalid-kamil/FiftyHabits/blob/main/images/main-view.png)
+<img src="https://github.com/khalid-kamil/FiftyHabits/blob/main/images/main-view.png" width="200" raw=true>
 
 This app was developed as part of my Final Project in CS50. The project draws on the lessons I learned throughout the course. The app is developed using Swift. The app is still a work in progress which I intend to develop further beyond the course.
 
