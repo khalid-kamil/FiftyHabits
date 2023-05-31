@@ -4,7 +4,7 @@
 
 #### CS50 Final Project Submission, Khalid Kamil
 
-<img src="https://github.com/khalid-kamil/FiftyHabits/blob/main/images/main-view.png" width="200" raw=true>
+<img src="https://github.com/khalid-kamil/FiftyHabits/blob/main/images/main-view.PNG" width="200" raw=true>
 
 This app was developed as part of my Final Project in CS50. The project draws on the lessons I learned throughout the course. The app is developed using Swift. The app is still a work in progress which I intend to develop further beyond the course.
 
@@ -28,26 +28,26 @@ The Main View consists of a UITableView with the following features:
 
   - Allows the user to delete and rearrange the order of habits
 
-    <img src="https://github.com/khalid-kamil/FiftyHabits/blob/main/images/main-view-edit.png" width="200">
+    <img src="https://github.com/khalid-kamil/FiftyHabits/blob/main/images/main-view-edit.PNG" width="200">
 
 - Search bar
 
   - Allows the user to filter the habit list using keyboard input
 
-    <img src="https://github.com/khalid-kamil/FiftyHabits/blob/main/images/main-view-search.png" width="200">
+    <img src="https://github.com/khalid-kamil/FiftyHabits/blob/main/images/main-view-search.PNG" width="200">
 
 - Tap to arrange habits
 
   - Allows user to rearrange habits without pressing the edit button
 
-    <img src="https://github.com/khalid-kamil/FiftyHabits/blob/main/images/main-view-tap-arrange.png" width="200">
+    <img src="https://github.com/khalid-kamil/FiftyHabits/blob/main/images/main-view-tap-arrange.PNG" width="200">
 
 - Swipe to delete habit
 
   - Displays a UIAlertController prompting the user to confirm or cancel the habit deletion
 
-    <img src="https://github.com/khalid-kamil/FiftyHabits/blob/main/images/main-view-delete.png" width="200">
-    <img src="https://github.com/khalid-kamil/FiftyHabits/blob/main/images/main-view-delete-confirm.png" width="200">
+    <img src="https://github.com/khalid-kamil/FiftyHabits/blob/main/images/main-view-delete.PNG" width="200">
+    <img src="https://github.com/khalid-kamil/FiftyHabits/blob/main/images/main-view-delete-confirm.PNG" width="200">
 
 ### **Add Habit View**
 
@@ -55,8 +55,8 @@ The Add Habit View consists of a Collection View of 16 images representing commo
 
 Once the user is happy with their image selection, they tap the Pick Photo button at the bottom of the screen. Which takes them to the Confirm Habit View.
 
-<img src="https://github.com/khalid-kamil/FiftyHabits/blob/main/images/habit-creation.png" width="200">
-<img src="https://github.com/khalid-kamil/FiftyHabits/blob/main/images/habit-creation-selected.png" width="200">
+<img src="https://github.com/khalid-kamil/FiftyHabits/blob/main/images/habit-creation.PNG" width="200">
+<img src="https://github.com/khalid-kamil/FiftyHabits/blob/main/images/habit-creation-selected.PNG" width="200">
 
 ### **Confirm Habit View**
 
@@ -64,8 +64,8 @@ The Confirm Habit view displays the users chosen image from the Add Habit View a
 
 Once the user is satisfied with their habit name they tap the Create Habit button, which takes them back to the main view and appends the newly created habit to the top of the habits table.
 
-<img src="https://github.com/khalid-kamil/FiftyHabits/blob/main/images/habit-confirm-input.png" width="200">
-<img src="https://github.com/khalid-kamil/FiftyHabits/blob/main/images/habit-confirm-input2.png" width="200">
+<img src="https://github.com/khalid-kamil/FiftyHabits/blob/main/images/habit-confirm-input.PNG" width="200">
+<img src="https://github.com/khalid-kamil/FiftyHabits/blob/main/images/habit-confirm-input2.PNG" width="200">
 
 ### **Habit Detail View**
 
@@ -77,8 +77,8 @@ Tapping on a habit in the main view, displays the Habit Detail View. This view c
 - Best Streak Length and
 - Streak Starting Date
 
-<img src="https://github.com/khalid-kamil/FiftyHabits/blob/main/images/habit-detail.png" width="200">
-<img src="https://github.com/khalid-kamil/FiftyHabits/blob/main/images/habit-detail2.png" width="200">
+<img src="https://github.com/khalid-kamil/FiftyHabits/blob/main/images/habit-detail.PNG" width="200">
+<img src="https://github.com/khalid-kamil/FiftyHabits/blob/main/images/habit-detail2.PNG" width="200">
 
 At the bottom of the view, exists a button which the user taps to mark the habit as completed each day. Once the habit is marked as complete, the button text displays "Completed for Today!" and a check mark is added to the habit in the main table view.
 
